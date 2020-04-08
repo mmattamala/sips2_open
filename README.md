@@ -26,7 +26,7 @@ The supplementary material mentioned in the paper can be found at http://rpg.ifi
 We recommend working in a [virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) (also when using ROS/catkin)
 ```bash
 pip install --upgrade opencv-contrib-python==3.4.2.16 opencv-python==3.4.2.16 ipython \
-    pyquaternion scipy absl-py hickle matplotlib sklearn tensorflow-gpu cachetools
+    pyquaternion scipy absl-py hickle matplotlib sklearn tensorflow-gpu cachetools scikit-image Pillow pyyaml
 ```
 
 ### With ROS/catkin
